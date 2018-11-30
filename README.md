@@ -1,4 +1,4 @@
-<h2>It it React Tutorial.</h2>
+<h2>It is React Tutorial.</h2>
 
 https://goo.gl/JEXyeU  <ENG.VER>
 
